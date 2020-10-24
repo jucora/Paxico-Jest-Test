@@ -1,0 +1,16 @@
+{
+  "name": "paxico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "operations.js",
+  "dependencies": {
+    "jest": "^26.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
